@@ -5,15 +5,6 @@
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quamtumcoderin&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quamtumcoderin&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
-
----
-
 ## 🗺️ Mi Mapa de Tecnologías
 
 ### ✅ Lo que he aprendido (My Toolbox)
@@ -49,4 +40,14 @@ Aquí es donde estoy enfocando mi energía actualmente para convertirme en un Fu
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quamtumcoderin&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quamtumcoderin&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+
+---
+
 ⭐️ *Gracias por visitar mi perfil*
