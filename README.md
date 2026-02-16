@@ -44,8 +44,8 @@ Aquí es donde estoy enfocando mi energía actualmente para convertirme en un Fu
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quamtumcoderin&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quamtumcoderin&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=quamtumcoderin&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quamtumcoderin&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 ---
